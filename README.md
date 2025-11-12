@@ -72,9 +72,9 @@ Built with a **microservices architecture**, secure REST APIs, and an admin dash
   <img src="https://komarev.com/ghpvc/?username=matiasmedina&label=Profile%20views&color=brightgreen&style=flat" alt="matiasmedina" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasmedina&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
