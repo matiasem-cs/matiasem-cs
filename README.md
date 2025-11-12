@@ -64,9 +64,7 @@ Built with a **microservices architecture**, secure REST APIs, and an admin dash
 
 ### 🌈 Let's Connect  
 
-📫 **Email:** [matiasmedina@gmail.com](mailto:matiasmedina@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/matiasmedina](https://www.linkedin.com/in/matiasmedina/)  
-💻 **GitHub:** [github.com/matiasmedina](https://github.com/matiasmedina)
+💼 **LinkedIn:** [linkedin.com/in/matiasem](https://www.linkedin.com/in/matiasem/)
 
 ---
 
