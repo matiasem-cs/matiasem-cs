@@ -57,7 +57,7 @@ Developed a full-stack web application that allows users to browse, book, and ma
 Built with a **microservices architecture**, secure REST APIs, and an admin dashboard for event management.  
 **Tech:** Node.js, Express.js, MongoDB, PostgreSQL, RabbitMQ, JWT, ReactJS, TypeScript, Material UI.  
 
-🧩 [View Repository →](#) _(Add your project link here!)_
+🧩 View pinned Repositories
 
 ---
 
